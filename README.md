@@ -2,6 +2,13 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Features
+
+- [x] 🐳 Docker
+- [x] ❤️ pm2
+- [x] 📱 Caddy
+- [x] ✨ pnpm
+
 ## Setup
 
 Make sure to install the dependencies:
